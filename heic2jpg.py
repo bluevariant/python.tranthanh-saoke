@@ -10,7 +10,7 @@ def processor_image(filename: str):
     with Image(filename=filename) as image:
         image.format = "jpg"
 
-        image.resize(int(image.width / 1.5), int(image.height / 1.5))
+        image.resize(int(image.width / 2), int(image.height / 2))
         image.save(filename=output)
 
 
