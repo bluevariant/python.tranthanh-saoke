@@ -219,7 +219,8 @@ def processor(filename, total):
     # QUANG CAO hộ đứa bạn đang chạy KPI =))
     ads = [
         "DU LIEU DO THUAT TOAN TU SINH, CO SAI SOT, CHI MANG TINH THAM KHAO",
-        "FB thang em IT 96: dev.nvdong",
+        # "FB thang em IT 96: dev.nvdong",
+        # "Sieu uu dai tai khoan ngan hang so SIEU DEP: https://bit.ly/banksodep",
     ]
     offset = 30
 
